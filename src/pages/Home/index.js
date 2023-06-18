@@ -1,6 +1,7 @@
 import {Header} from "../../components/Header";
 import background from '../../assets/background.png';
-import './styles.css';
+import ItemList from "../../components/ItemList";
+import "./styles.css";
 
 function App() {
   return (
@@ -24,6 +25,12 @@ function App() {
             </div>
           </div>
           <hr />
+          <div>
+            <h4 className="repositorio">Repositorios</h4>
+            <ItemList title="Teste1" description="teste de description"/>
+            <ItemList title="Teste1" description="teste de description"/>
+            <ItemList title="Teste1" description="teste de description"/>
+          </div>
         </div>  
       </div>
     </div>
