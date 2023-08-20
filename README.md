@@ -12,7 +12,7 @@ O GitFind é um aplicativo web para pesquisa de usuários e repositórios do Git
 
 ## Exemplo de Pesquisa de Perfil
 
-![Tela 1](Git Find - khalilbrito.github.io.png)
+![Tela 1](exemplo.png)
 
 ## Funcionalidades
 
