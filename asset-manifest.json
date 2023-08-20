@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gitfind/static/css/main.489595fb.css",
+    "main.js": "/gitfind/static/js/main.1489c0fd.js",
+    "index.html": "/gitfind/index.html",
+    "main.489595fb.css.map": "/gitfind/static/css/main.489595fb.css.map",
+    "main.1489c0fd.js.map": "/gitfind/static/js/main.1489c0fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.489595fb.css",
+    "static/js/main.1489c0fd.js"
+  ]
+}
