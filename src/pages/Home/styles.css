@@ -81,3 +81,25 @@ button {
     margin: 12px 0;
     text-align: center;
 }
+
+@media screen and (max-width: 768px) {
+
+    input {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 12px;
+        font-size: 16px;
+        position: relative; 
+        z-index: 1; /* Coloque o input acima de outros elementos */
+    }
+
+    button {
+        width: 100%;
+        margin-right: 0;
+        font-size: 16px;
+        padding: 12px;
+        position: relative; 
+        z-index: 2; /* Ajuste o valor de z-index */
+    }
+
+  }
